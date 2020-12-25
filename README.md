@@ -17,7 +17,8 @@ step is towards learning Data Science for Statistical Analysis and Machine Learn
 - 👯 I’m looking to collaborate on any Open Source Machine Learning Project.
 - 🤔 I’m a consistent competitive coder.
 - 💬 Ask me about anything. 
+- 📝 [Resume](https://drive.google.com/file/d/11w3PVn2N40OKlazeFKBmBRu5_ZtqB4yA/view?usp=sharing)
 # 📫 Reach me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahesh-vaishnav-9ba99a192/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mahesh.vaishnav.94009/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_vaishnav_2001/)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>]()  
-- 📝 [Resume](https://drive.google.com/file/d/11w3PVn2N40OKlazeFKBmBRu5_ZtqB4yA/view?usp=sharing)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=markMahesh&show_icons=true)  
